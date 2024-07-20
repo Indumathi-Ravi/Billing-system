@@ -1,0 +1,48 @@
+java -cp /tmp/gLfgDGRVcg/ShoppingBill
+				--------------------Invoice-----------------
+					        ABC Super market
+											2/98 gugai salem
+					    Opposite sabari theater
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988678321
+Date: 19/07/2024 06:40:17  Friday						 (+91) 9988776655
+Enter Customer Name: indumathi
+Enter the product details: 
+Product ID: 123
+Product Name: rice
+Quantity: 5
+Price (per unit): 150
+Want to add more items? (y or n): y
+Enter the product details: 
+Product ID: 456
+Product Name: biscuit
+Quantity: 6
+Price (per unit): 10
+Want to add more items? (y or n): y
+Enter the product details: 
+Product ID: 789
+Product Name: juice
+Quantity: 10
+Price (per unit): 20
+Want to add more items? (y or n): n
+-----------------------------------------------------------------------------------------------------------------------------------
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   123                   rice               5                  150.00                               750.00
+   456                   biscuit            6                   10.00                                60.00
+   789                   juice             10                   20.00                               200.00
+
+										Total Amount (Rs.) 1010.0
+
+										    Discount (Rs.) 20.2
+
+										          Subtotal 989.8
+
+										          SGST (%) 121.2
+
+										          CGST (%) 121.2
+
+										     Invoice Total 1232.2
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+=== Code Execution Successful ===
